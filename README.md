@@ -1,6 +1,8 @@
 #  Mean and variance of a discrete  distribution
-
-
+**Ex no: 
+Date :
+NAME: R.Trisha
+Register number: 212224100062**
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
